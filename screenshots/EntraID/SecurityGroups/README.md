@@ -1,6 +1,11 @@
 Entra ID Security Groups
-This section contains screenshots documenting the creation and management of Public Safety security groups used for RBAC, group-based licensing, Teams access, SharePoint permissions, and identity governance.
+This section contains screenshots documenting the creation and management of Public Safety security groups used for:
 
+RBAC
+Group-Based Licensing
+Microsoft Teams Access
+SharePoint Permissions
+Identity Governance
 Security Groups
 Public Safety - Patrol
 Public Safety - Dispatch
