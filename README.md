@@ -28,6 +28,31 @@ Public Safety - Investigations
 Public Safety - Command Staff
 Public Safety - IT
 Security groups were created to support:
+User Accounts Created
+
+Command Staff
+
+Chief Johnson
+Captain Smith
+Patrol Division
+
+Sergeant Miller
+Officer Jones
+Officer Davis
+Dispatch Center
+
+Dispatcher Brown
+Dispatcher Walker
+Investigations Division
+
+Detective Wilson
+Detective Taylor
+Records Division
+
+Records Clerk
+Information Technology
+
+IT Admin
 
 Role-Based Access Control (RBAC)
 Group-Based Licensing
