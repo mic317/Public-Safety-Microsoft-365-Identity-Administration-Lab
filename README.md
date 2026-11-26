@@ -160,6 +160,19 @@ Grant Teams Access
 Grant SharePoint Access
 Verify Access and Compliance
 Officer Transfer Workflow
+Officer Offboarding Workflow
+Scenario
+Officer Jones separates from the Castle Rock Public Safety Agency.
+
+Deprovisioning Process
+Disable User Account
+Remove Group Memberships
+Remove Microsoft 365 License
+Revoke Active Sessions
+Archive Required Data
+Document Account Closure
+Outcome
+Access is removed according to Identity Governance policies and the principle of least privilege.
 
 Remove Existing Department Access
 Assign New Department Group Membership
