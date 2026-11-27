@@ -163,6 +163,23 @@ Officer Transfer Workflow
 Officer Offboarding Workflow
 Scenario
 Officer Jones separates from the Castle Rock Public Safety Agency.
+Lifecycle Management Summary
+The Public Safety Microsoft 365 & Identity Administration Lab demonstrates the complete user lifecycle:
+
+Joiner
+Officer Garcia onboarding process
+User creation
+Group assignment
+License planning
+Mover
+Officer Davis promoted to Sergeant
+Role modification
+Additional supervisory access
+Leaver
+Officer Jones offboarding process
+Account deprovisioning
+Access removal
+Identity governance controls
 
 Deprovisioning Process
 Disable User Account
